@@ -1,6 +1,7 @@
 package dongcode.shape;
 
 abstract class Shape {
+
     Point tam;
 
     abstract void nhap();
